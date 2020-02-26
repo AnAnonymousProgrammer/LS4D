@@ -1,4 +1,4 @@
-# Circuit Painter ($LS^4D$ Algorithm Implementation)
+# Circuit Painter ($$LS^4D$$ Algorithm Implementation)
 
 > This is the algorithm code corresponding to paper Graph-Based Locality-Sensitive Circuit Sketch Recognition, including pre-trained model. 
 
