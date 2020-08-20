@@ -1,6 +1,7 @@
 # Circuit Painter (LS4D Algorithm Implementation)
 
 > This is the algorithm code corresponding to paper Graph-Based Locality-Sensitive Circuit Sketch Recognition, including pre-trained model. 
+> [[Paper](http://47.103.30.151/research/GraphBasedLocalitySensitiveCircuitSketchRecognizer.pdf)] [[Supplementary Material](http://47.103.30.151/research/SupplementaryMaterial.pdf)] [[Supplementary Video](http://47.103.30.151/research/CircuitPainter.mp4)]
 
 Request Environment: Java 8 or later, python3, pytorch, maven, numpy, matplotlib
 
